@@ -1,0 +1,44 @@
+
+
+.container{
+    margin: 50px auto;
+    text-align: center;
+}
+body{
+    background-image: url('fifth.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.container  input{
+    padding: 8px 10px;
+    width: 20%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.container  button{
+    padding: 8px 10px;
+    width: 5%;
+    border: none;
+    outline: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background: orangered;
+    color: #fff;
+    margin-left: -20px;
+}
+.container .text-area{
+    margin-top: 150px;
+}
+.container .text-area h3{
+    font-size: 30px;
+}
+.container .text-area p{
+    font-size: 40px;
+    margin-top: -15px;
+    margin-bottom: -15px;
+}
+.container .text-area h4{
+    font-size: 20px;
+}
